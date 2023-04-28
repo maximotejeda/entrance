@@ -7,7 +7,7 @@ some in *Go* others on *Dart/Flutter* the main goal of the service is to be easy
 the request that will end hitting the distinct services behind the proxy.
 
 ** The Router
-is a cutom one made from old code from a few books i barely remember so i expect to improve
+Is a custom one made from old code from a few books i barely remember so i expect to improve
 as i move forward in the project, trying to make use of others libraries made by me, this
 one will make use of the standard library to manage all the task.
 
